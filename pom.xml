@@ -40,7 +40,7 @@
         <check.skip-enforcer>true</check.skip-enforcer>
         <check.skip-rat>true</check.skip-rat>
         <check.skip-spotbugs>true</check.skip-spotbugs>
-        <killbill.version>0.24.8-SNAPSHOT</killbill.version>
+        <killbill.version>0.24.8</killbill.version>
         <osgi.private>org.killbill.billing.plugin.custominvoiceformatter.*</osgi.private>
     </properties>
     <dependencies>
